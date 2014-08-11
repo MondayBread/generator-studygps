@@ -1,4 +1,4 @@
-# AngularJS Full-Stack generator [![Build Status](https://travis-ci.org/StudyGPS-Company/generator-studygps.svg?branch=master)](http://travis-ci.org/StudyGPS-Company/generator-studygps)
+# studygps generator
 
 > Yeoman generator for creating MEAN stack applications, using MongoDB, Express, AngularJS, and Node - lets you quickly set up a project following best practices.
 
